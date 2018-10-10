@@ -1,2 +1,2 @@
 # GamesAlgorithms
-This is a repository to practice different algorithms of altrifical intelligence in order to solve games
+This is a repository to practice different algorithms of artificial intelligence in order to solve games
